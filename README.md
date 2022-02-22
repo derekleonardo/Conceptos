@@ -2,7 +2,7 @@
 
 **issue:** Nota en el repositorio que llama la atención a un error a corregir, una petición para añadir alguna característica o alguna pregunta.
 
-**Pull request:** Petición para contribuir a algún proyecto de código abierto
+**Pull request:** Petición para contribuir a algún proyecto de código abierto.
 
 
 **clone:** Clona un repositorio en una dirección local.
@@ -13,14 +13,14 @@
 
 **status:** Muestra el estado del árbol en el que se esta trabajando.
 
-**branch:** Listar, crear o borrar branches  
+**branch:** Listar, crear o borrar branches.
 
-**commit:** Guardar cambios en el repositorio  
+**commit:** Guardar cambios en el repositorio.  
 
-**pull:** Obtenga e integre con otro repositorio o una branch local
+**pull:** Obtenga e integre con otro repositorio o una branch local.
 
-**push:** Subir las actualizaciones 
+**push:** Subir las actualizaciones.
 
-**checkout:** Trabajar en un brunch
+**checkout:** Trabajar en un brunch.
 
-**init:** La carpeta actual será un repositorio de GitHub
+**init:** La carpeta actual será un repositorio de GitHub.
