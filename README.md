@@ -1,9 +1,12 @@
 # Conceptos de Git vistos en clase:
 
+## Partes del repositorio:
+
 **issue:** Nota en el repositorio que llama la atención a un error a corregir, una petición para añadir alguna característica o alguna pregunta.
 
 **Pull request:** Petición para contribuir a algún proyecto de código abierto.
 
+## Comandos:
 
 **clone:** Clona un repositorio en una dirección local.
 
